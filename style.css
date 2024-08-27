@@ -78,7 +78,7 @@ h1 {
 }
 
 .images-one {
-    animation: scroll 30s linear infinite both;
+    animation: scroll 50s linear infinite both;
     display: flex;
     align-items: flex-start;
 }
@@ -90,7 +90,7 @@ h1 {
 }
 
 .images-two {
-    animation: scroll-left 30s linear infinite both;
+    animation: scroll-left 50s linear infinite both;
     display: flex;
     align-items: flex-end;
 }
