@@ -66,13 +66,14 @@ body {
 }
 
 h1 {
-    font-size: 5em;
+    font-size: 5rem;
     color: white;
     justify-content: center;
     align-items: center;
     display: flex;
     text-align: center;
     cursor: default;
+    max-height: 50vh;
 }
 
 .images-one {
