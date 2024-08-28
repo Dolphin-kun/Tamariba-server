@@ -109,6 +109,7 @@ h1 {
     align-items: center;
     transition: transform 0.4s;
     display: flex;
+    pointer-events: none;
 }
 
 .item:hover img {
